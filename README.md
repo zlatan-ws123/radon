@@ -26,4 +26,3 @@
 
 ![freq_img](D:\My_file\radon\result\freq_img.png)
 
-### 
